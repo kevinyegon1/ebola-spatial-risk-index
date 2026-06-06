@@ -1,0 +1,305 @@
+country,provpcode,province,ctypcode,county,scpcode,subcounty,dhis2_id
+Kenya,KEN_1_1,Coast,KEN_2_1,Mombasa,KEN_3_6,Mvita  Sub County,C1xuoa1NAMm
+Kenya,KEN_1_7,Nyanza,KEN_2_42,Kisumu,KEN_3_240,Kisumu Central Sub County,OpLt8IgyHop
+Kenya,KEN_1_3,Eastern,KEN_2_15,Kitui,KEN_3_70,Kitui West  Sub County,cmWAJB5kCDW
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,KEN_3_219,Bumula Sub County,jkQZEow83MX
+Kenya,KEN_1_7,Nyanza,KEN_2_42,Kisumu,KEN_3_244,Nyakach Sub County,kBQIjtWUBqj
+Kenya,KEN_1_7,Nyanza,KEN_2_46,Nyamira,KEN_3_273,Borabu Sub County,ABuzigW8Lzw
+Kenya,KEN_1_3,Eastern,KEN_2_17,Makueni,KEN_3_86,Makueni  Sub County,AIGIQpolMRn
+Kenya,KEN_1_1,Coast,KEN_2_3,Kilifi,KEN_3_15,Ganze Sub County,x7qUMtZZvo9
+Kenya,KEN_1_4,Central,KEN_2_19,Nyeri,,Kieni West Sub County,odOtfcaMg4p
+Kenya,KEN_1_3,Eastern,KEN_2_12,Meru,KEN_3_54,Tigania West Sub County,Q4xAPhWUnYC
+Kenya,KEN_1_2,North Eastern,KEN_2_8,Wajir,KEN_3_38,Wajir South Sub County,U7KFQn3Up3o
+Kenya,KEN_1_6,Western,KEN_2_40,Busia,KEN_3_227,Nambale Sub County,e1J7R103h8I
+Kenya,KEN_1_4,Central,KEN_2_18,Nyandarua,KEN_3_91,Olkalou Sub County,Lm9RMwhIu3G
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_279,Roysambu  Sub County,j7GpbairCOi
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_278,Kibra  Sub County,LO5he3DtiFG
+Kenya,KEN_1_5,Rift Valley,KEN_2_30,Baringo,KEN_3_162,Koibatek Sub County,Yl9UDBnDvvW
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_210,Ikolomani Sub County,BE6HMtlHyl1
+Kenya,KEN_1_7,Nyanza,KEN_2_43,Homa Bay,KEN_3_249,Homa Bay Town Sub County,Ur2xRBDtazT
+Kenya,KEN_1_7,Nyanza,KEN_2_45,Kisii,KEN_3_261,Bonchari  Sub County,zCCIu1Vi3Wh
+Kenya,KEN_1_5,Rift Valley,KEN_2_36,Bomet,KEN_3_195,Chepalungu Sub County,PUhMyfDD2xp
+Kenya,KEN_1_1,Coast,KEN_2_3,Kilifi,KEN_3_14,Rabai Sub County,hJf4rt7cvI6
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_276,Dagoretti South Sub County,sqNWYDHZZ6W
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_201,Malava Sub County,ES1CWa4AJmJ
+Kenya,KEN_1_5,Rift Valley,KEN_2_23,Turkana,KEN_3_125,Turkana Central Sub County,zd8rhYqGowE
+Kenya,KEN_1_6,Western,KEN_2_38,Vihiga,KEN_3_215,Emuhaya Sub County,Lpy789vqRC6
+Kenya,KEN_1_3,Eastern,KEN_2_15,Kitui,KEN_3_68,Mwingi West Sub County,svwbDnzhgik
+Kenya,KEN_1_5,Rift Valley,KEN_2_31,Laikipia,KEN_3_164,Laikipia East Sub County,pF6qPMIlHte
+Kenya,KEN_1_1,Coast,KEN_2_1,Mombasa,KEN_3_3,Kisauni  Sub County,C1hO6wNOgrH
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_275,Dagoretti North Sub County,CcTr4bcVGAG
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_170,Kuresoi South  Sub County,QwGkDS0DNls
+Kenya,KEN_1_3,Eastern,KEN_2_10,Marsabit,KEN_3_46,NORTH HORR,j6fqt5TYqPZ
+Kenya,KEN_1_3,Eastern,KEN_2_12,Meru,KEN_3_53,Igembe North Sub County,G9DoZvSdGLx
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_203,Navakholo Sub County,G6PJ5kFVAuO
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_113,Juja Sub County,aiqi2bz0IMI
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,KEN_3_222,Webuye West Sub County,aqYhbqKclsI
+Kenya,KEN_1_3,Eastern,KEN_2_15,Kitui,KEN_3_72,Kitui Central  Sub County,MWqQbxWqACn
+Kenya,KEN_1_6,Western,KEN_2_40,Busia,KEN_3_226,Teso South Sub County,EhchjCHkhJ9
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_120,Kikuyu Sub County,jOVcLeZQSsS
+Kenya,KEN_1_4,Central,KEN_2_18,Nyandarua,KEN_3_90,Kipipiri Sub County,KlVgeHmvG6n
+Kenya,KEN_1_5,Rift Valley,KEN_2_27,Uasin Gishu,KEN_3_143,Moiben Sub County,q8R0FA1hxnP
+Kenya,KEN_1_3,Eastern,KEN_2_13,Tharaka-Nithi,KEN_3_61,Chuka Sub County,JmE1qRVQD4F
+Kenya,KEN_1_5,Rift Valley,KEN_2_35,Kericho,KEN_3_192,Belgut Sub County,YnIAWg1T4AY
+Kenya,KEN_1_2,North Eastern,KEN_2_8,Wajir,KEN_3_37,Eldas Sub County,x6Z1sBeiyqQ
+Kenya,KEN_1_5,Rift Valley,KEN_2_33,Narok,KEN_3_177,Transmara West Sub County,Nb6e34jNGAq
+Kenya,KEN_1_3,Eastern,KEN_2_12,Meru,KEN_3_51,Igembe South Sub County,wtuGWT7KjVm
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,,Cheptais Sub County,NZphHeczehh
+Kenya,KEN_1_4,Central,KEN_2_18,Nyandarua,KEN_3_92,Oljoroorok Sub County,fVSw60UAC3W
+Kenya,KEN_1_5,Rift Valley,KEN_2_29,Nandi,KEN_3_155,Emgwen Sub County,Njv37QXxNy2
+Kenya,KEN_1_7,Nyanza,KEN_2_46,Nyamira,KEN_3_270,Masaba North Sub County,Qn5Fff2lIDz
+Kenya,KEN_1_3,Eastern,KEN_2_16,Machakos,KEN_3_76,Yatta Sub County,CeukNtGhW7J
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_122,Lari Sub County,nCziQtZ49jj
+Kenya,KEN_1_3,Eastern,KEN_2_12,Meru,KEN_3_52,Igembe Central Sub County,TPfcUHno8oP
+Kenya,KEN_1_4,Central,KEN_2_21,Muranga,KEN_3_105,Mathioya Sub County,u7Gkh63FYe4
+Kenya,KEN_1_4,Central,KEN_2_21,Muranga,KEN_3_109,Kandara Sub County,gwYTo0wITYX
+Kenya,KEN_1_5,Rift Valley,KEN_2_35,Kericho,KEN_3_188,Kipkelion East Sub County,gU0Cz7Qlfss
+Kenya,KEN_1_3,Eastern,KEN_2_16,Machakos,KEN_3_79,Kathiani Sub County,iCey76HYgLP
+Kenya,KEN_1_5,Rift Valley,KEN_2_36,Bomet,KEN_3_194,Sotik Sub County,KyuSYunELJI
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_282,Embakasi South Sub County,aDp1odOWYC1
+Kenya,KEN_1_2,North Eastern,KEN_2_9,Mandera,KEN_3_40,BANISSA,hCvlJNjyZna
+Kenya,KEN_1_3,Eastern,KEN_2_13,Tharaka-Nithi,,Tharaka South Sub County,Yz1V5Cx8CO2
+Kenya,KEN_1_6,Western,KEN_2_40,Busia,KEN_3_229,Butula Sub County,RIBiZFJxB1K
+Kenya,KEN_1_2,North Eastern,KEN_2_8,Wajir,KEN_3_36,Wajir West Sub County,X98G0eIWdmP
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_112,Gatundu North Sub County,HEsM6W2ImQR
+Kenya,KEN_1_3,Eastern,KEN_2_13,Tharaka-Nithi,,Igambang'ombe Sub County,yXwsnpFBIPW
+Kenya,KEN_1_7,Nyanza,KEN_2_46,Nyamira,KEN_3_271,Nyamira Sub County,cxjRPbvhjzr
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,KEN_3_218,Kabuchai Sub County,k1mze33jOs0
+Kenya,KEN_1_3,Eastern,KEN_2_16,Machakos,KEN_3_78,Matungulu Sub County,GnixPSqaV6D
+Kenya,KEN_1_4,Central,KEN_2_18,Nyandarua,KEN_3_93,Ndaragwa Sub County,EESGLsSLTqH
+Kenya,KEN_1_7,Nyanza,KEN_2_41,Siaya,KEN_3_237,Rarieda Sub County,XcRpb1xsM64
+Kenya,KEN_1_1,Coast,KEN_2_6,Taita Taveta,KEN_3_24,Wundanyi Sub County,AM36DdkZ36Y
+Kenya,KEN_1_3,Eastern,KEN_2_17,Makueni,KEN_3_85,Kaiti  Sub County,pKJ4NZGPzTA
+Kenya,KEN_1_3,Eastern,KEN_2_14,Embu,KEN_3_65,Mbeere South  Sub County,AvnM6jKoocs
+Kenya,KEN_1_4,Central,KEN_2_19,Nyeri,KEN_3_94,Tetu Sub County,YT3tecc4atw
+Kenya,KEN_1_7,Nyanza,KEN_2_44,Migori,KEN_3_258,Nyatike Sub County,D2lsuEzZAJP
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_111,Gatundu South Sub County,EcRytSSIkUq
+Kenya,KEN_1_5,Rift Valley,KEN_2_29,Nandi,KEN_3_153,Nandi East Sub County,W6Err8cQf5J
+Kenya,KEN_1_4,Central,KEN_2_19,Nyeri,KEN_3_96,Mathira East Sub County,vznKK4IegIL
+Kenya,KEN_1_5,Rift Valley,KEN_2_28,Elgeyo-Marakwet,KEN_3_147,Marakwet East sub-county,EZraJgLdRLX
+Kenya,KEN_1_5,Rift Valley,KEN_2_34,Kajiado,KEN_3_187,Loitokitok Sub County,eyADpAXM834
+Kenya,KEN_1_7,Nyanza,KEN_2_45,Kisii,KEN_3_263,Bomachoge Borabu Sub County,ntRK47D5dYL
+Kenya,KEN_1_5,Rift Valley,KEN_2_31,Laikipia,KEN_3_165,Laikipia North Sub County,RJyUfi5BQUm
+Kenya,KEN_1_3,Eastern,KEN_2_15,Kitui,KEN_3_71,Kitui Rural Sub County,vbauk0RRq9N
+Kenya,KEN_1_5,Rift Valley,KEN_2_27,Uasin Gishu,KEN_3_142,Turbo Sub County,KuprsuBe1l0
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_284,Embakasi Central Sub County,XvpLXU47BKs
+Kenya,KEN_1_3,Eastern,KEN_2_16,Machakos,KEN_3_82,Mwala Sub County,fYYivceocJ2
+Kenya,KEN_1_5,Rift Valley,KEN_2_26,Trans Nzoia,KEN_3_136,Kwanza  Sub County,ABy8CNqf2e7
+Kenya,KEN_1_6,Western,KEN_2_38,Vihiga,KEN_3_211,Vihiga Sub County,OOF3UX4yOt7
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,KEN_3_220,Kanduyi Sub County,CUjthlounWV
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_287,Makadara  Sub County,wwROy3Qkwin
+Kenya,KEN_1_5,Rift Valley,KEN_2_31,Laikipia,KEN_3_163,Laikipia West Sub County,pXbWrnFPpKb
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_168,Naivasha  Sub County,yZJJPoSGhY6
+Kenya,KEN_1_5,Rift Valley,KEN_2_35,Kericho,KEN_3_193,Sigowet/Soin Sub County,ScLzA7tQxrH
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_285,Embakasi East Sub County,gD4xxgDGJ4Y
+Kenya,KEN_1_5,Rift Valley,KEN_2_35,Kericho,KEN_3_191,Bureti Sub County,wt8cPHWfkfu
+Kenya,KEN_1_4,Central,KEN_2_19,Nyeri,KEN_3_99,Nyeri Central Sub County,GXnD5lHeanK
+Kenya,KEN_1_3,Eastern,KEN_2_10,Marsabit,KEN_3_47,SAKU,WILszL634oZ
+Kenya,KEN_1_1,Coast,KEN_2_1,Mombasa,KEN_3_1,Changamwe Sub County,OvI6w06DhPJ
+Kenya,KEN_1_1,Coast,KEN_2_3,Kilifi,KEN_3_13,Kaloleni Sub County,tSKDWoVKiPo
+Kenya,KEN_1_3,Eastern,KEN_2_16,Machakos,KEN_3_80,Athi River Sub County,BxfsSc6Svrc
+Kenya,KEN_1_7,Nyanza,KEN_2_45,Kisii,KEN_3_262,South Mugirango Sub County,WHG67QCDRS9
+Kenya,KEN_1_3,Eastern,KEN_2_16,Machakos,KEN_3_75,Masinga Sub County,hpcb7MYi6nc
+Kenya,KEN_1_1,Coast,KEN_2_3,Kilifi,KEN_3_12,Kilifi South Sub County,xWAZBULwGxp
+Kenya,KEN_1_7,Nyanza,KEN_2_43,Homa Bay,KEN_3_248,Rangwe Sub County,iK2Jk2AxhlD
+Kenya,KEN_1_4,Central,KEN_2_20,Kirinyaga,KEN_3_101,Kirinyaga East Sub County,yOaHQLOLd1H
+Kenya,KEN_1_1,Coast,KEN_2_1,Mombasa,KEN_3_2,Jomvu  Sub County,vSISrsNNHwq
+Kenya,KEN_1_6,Western,KEN_2_40,Busia,KEN_3_228,Matayos Sub County,tvkI2HSIRW9
+Kenya,KEN_1_2,North Eastern,KEN_2_7,Garissa,KEN_3_27,Garissa Sub County,lQkHbTC1iRg
+Kenya,KEN_1_2,North Eastern,KEN_2_7,Garissa,KEN_3_30,Dadaab Sub County,EW4Jw4dVWBt
+Kenya,KEN_1_4,Central,KEN_2_19,Nyeri,KEN_3_98,Mukurweini Sub County,zT8Zj5vNYCy
+Kenya,KEN_1_1,Coast,KEN_2_1,Mombasa,KEN_3_4,Nyali  Sub County,sr8WEz03EnP
+Kenya,KEN_1_3,Eastern,KEN_2_14,Embu,KEN_3_64,Runyenjes  Sub County,kMSLkN4nsRl
+Kenya,KEN_1_6,Western,KEN_2_38,Vihiga,KEN_3_213,Hamisi Sub County,BXaq5PxSfz2
+Kenya,KEN_1_7,Nyanza,KEN_2_41,Siaya,KEN_3_235,Gem Sub County,PKeFksHlJkB
+Kenya,KEN_1_3,Eastern,KEN_2_17,Makueni,KEN_3_83,Mbooni  Sub County,jxjGWCdfsib
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_115,Ruiru Sub County,TPRNJqSm4lK
+Kenya,KEN_1_5,Rift Valley,KEN_2_23,Turkana,KEN_3_124,Turkana West Sub County,HK5SUCMQmsw
+Kenya,KEN_1_5,Rift Valley,KEN_2_24,West Pokot,KEN_3_132,Pokot South Sub County,u2zJahNiSP5
+Kenya,KEN_1_5,Rift Valley,KEN_2_36,Bomet,KEN_3_197,Bomet Central Sub County,m9gdonbVXjZ
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_176,Nakuru East  Sub County,FBJ9Y11esHS
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_118,Kiambaa Sub County,oMaQgNIs85x
+Kenya,KEN_1_4,Central,KEN_2_21,Muranga,KEN_3_108,Muranga South Sub County,l46g2PZUjoh
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_208,Khwisero Sub County,UhQS2Mv0PCK
+Kenya,KEN_1_2,North Eastern,KEN_2_7,Garissa,KEN_3_31,Fafi Sub County,RScEHA3V38d
+Kenya,KEN_1_1,Coast,KEN_2_3,Kilifi,KEN_3_17,Magarini Sub County,KMWrMZrlO5u
+Kenya,KEN_1_7,Nyanza,KEN_2_41,Siaya,KEN_3_233,Ugunja Sub County,m9nsQ1MXlVU
+Kenya,KEN_1_5,Rift Valley,KEN_2_28,Elgeyo-Marakwet,KEN_3_150,Keiyo South Sub County,SOEG546PqbA
+Kenya,KEN_1_3,Eastern,KEN_2_14,Embu,KEN_3_63,Manyatta  Sub County,IPOMRXiYjxr
+Kenya,KEN_1_4,Central,KEN_2_20,Kirinyaga,KEN_3_102,Kirinyaga West Sub County,A34NiI4rgnf
+Kenya,KEN_1_3,Eastern,KEN_2_15,Kitui,KEN_3_73,Kitui East Sub County,d0Gu8FrRM0Y
+Kenya,KEN_1_5,Rift Valley,KEN_2_29,Nandi,KEN_3_151,Tinderet Sub County,NPYRMdqrK6L
+Kenya,KEN_1_1,Coast,KEN_2_6,Taita Taveta,KEN_3_26,Voi Sub County,yoGLpCTgjed
+Kenya,KEN_1_3,Eastern,KEN_2_13,Tharaka-Nithi,KEN_3_60,Mwimbi Sub County,wQ8XjZ7zVwL
+Kenya,KEN_1_3,Eastern,KEN_2_13,Tharaka-Nithi,,Muthambi Sub County,gLD3Q9fHpvy
+Kenya,KEN_1_5,Rift Valley,KEN_2_33,Narok,KEN_3_178,Transmara East Sub County,PGTkGnIAZuy
+Kenya,KEN_1_2,North Eastern,KEN_2_9,Mandera,KEN_3_43,MANDERA EAST,fGr9rRvaovO
+Kenya,KEN_1_7,Nyanza,KEN_2_45,Kisii,KEN_3_268,Kitutu Chache North Sub County,cQkF9l9wePP
+Kenya,KEN_1_5,Rift Valley,KEN_2_24,West Pokot,KEN_3_131,Pokot North Sub County,YXpHG1Ez8V2
+Kenya,KEN_1_1,Coast,KEN_2_6,Taita Taveta,KEN_3_23,Taveta Sub County,jNzRdAwjaQ1
+Kenya,KEN_1_2,North Eastern,KEN_2_8,Wajir,KEN_3_34,Wajir East Sub County,uov0yFMw9Qm
+Kenya,KEN_1_3,Eastern,KEN_2_10,Marsabit,KEN_3_45,MOYALE,sZjPgbWI5ra
+Kenya,KEN_1_3,Eastern,KEN_2_12,Meru,KEN_3_59,Imenti South Sub County,AFIlzKNxXST
+Kenya,KEN_1_5,Rift Valley,KEN_2_36,Bomet,KEN_3_198,Konoin Sub County,PLFoYJO8MVS
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_117,Kiambu Town Sub County,SBz4c48i24Y
+Kenya,KEN_1_5,Rift Valley,KEN_2_34,Kajiado,KEN_3_185,Kajiado East Sub County,g6gTzQ5nfYq
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_174,Nakuru North  Sub County,nwh9bXKykiS
+Kenya,KEN_1_5,Rift Valley,KEN_2_26,Trans Nzoia,KEN_3_139,Kiminini  Sub County,pzZHpL2ueIn
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_172,Subukia  Sub County,zQEuNRaPYgE
+Kenya,KEN_1_5,Rift Valley,KEN_2_25,Samburu,KEN_3_133,Samburu Central Sub County,EmQRGVtvWy3
+Kenya,KEN_1_4,Central,KEN_2_21,Muranga,KEN_3_106,Kiharu Sub County,VDlzh6w4LKv
+Kenya,KEN_1_2,North Eastern,KEN_2_9,Mandera,KEN_3_39,MANDERA WEST,H5RvDZkoDJL
+Kenya,KEN_1_5,Rift Valley,KEN_2_24,West Pokot,KEN_3_129,West Pokot Sub County,ylWg6VvADJE
+Kenya,KEN_1_1,Coast,KEN_2_2,Kwale,KEN_3_8,Lunga Lunga Sub County,TdcYaufNV4p
+Kenya,KEN_1_7,Nyanza,KEN_2_44,Migori,KEN_3_253,Rongo Sub County,fT37q3rXQ35
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_281,Ruaraka  Sub County,Cc8uEFkzfVf
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_200,Likuyani Sub County,wMv0s3U2nnG
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_209,Shinyalu Sub County,sjlSPeRgl7d
+Kenya,KEN_1_7,Nyanza,KEN_2_41,Siaya,KEN_3_236,Bondo Sub County,JNvqpOnKfGR
+Kenya,KEN_1_2,North Eastern,KEN_2_9,Mandera,KEN_3_41,MANDERA NORTH,jrm0uyLXnC1
+Kenya,KEN_1_2,North Eastern,KEN_2_8,Wajir,KEN_3_35,Tarbaj Sub County,fmNokBURXjM
+Kenya,KEN_1_7,Nyanza,KEN_2_43,Homa Bay,KEN_3_252,Suba Sub County,HoRW5aISmiD
+Kenya,KEN_1_7,Nyanza,KEN_2_44,Migori,KEN_3_259,Kuria West Sub County,jtBjNpL9FXS
+Kenya,KEN_1_5,Rift Valley,KEN_2_27,Uasin Gishu,KEN_3_146,Kesses Sub County,dKHnvt7gleN
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_290,Mathare  Sub County,gh2kzpOFCeF
+Kenya,KEN_1_1,Coast,KEN_2_2,Kwale,KEN_3_7,Msambweni Sub County,ADMywdLwoRX
+Kenya,KEN_1_5,Rift Valley,KEN_2_33,Narok,KEN_3_181,Narok South Sub County,bnYzgzYe2Z7
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_280,Kasarani  Sub County,FoqzDgIByL6
+Kenya,KEN_1_4,Central,KEN_2_21,Muranga,KEN_3_104,Kangema Sub County,U9CLTNIwehR
+Kenya,KEN_1_5,Rift Valley,KEN_2_24,West Pokot,KEN_3_130,Pokot Central Sub County,SCbMzaOeTuR
+Kenya,KEN_1_7,Nyanza,KEN_2_44,Migori,KEN_3_254,Awendo Sub County,ka9Uv3Ckcbd
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_277,Langata  Sub County,aTGYlhEw2Xx
+Kenya,KEN_1_5,Rift Valley,KEN_2_29,Nandi,KEN_3_156,Mosop Sub County,Xtb7tbJpk9p
+Kenya,KEN_1_1,Coast,KEN_2_4,Tana River,KEN_3_19,Galole Sub County,A4SNYCxrrnv
+Kenya,KEN_1_1,Coast,KEN_2_3,Kilifi,KEN_3_16,Malindi Sub County,lGg3wEy784X
+Kenya,KEN_1_5,Rift Valley,KEN_2_34,Kajiado,KEN_3_184,Kajiado Central Sub County,SZapM1R0Kti
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_288,Kamukunji  Sub County,qoLIT7y5f5c
+Kenya,KEN_1_5,Rift Valley,KEN_2_28,Elgeyo-Marakwet,KEN_3_149,Keiyo North Sub County,rlWH0Ac9vjc
+Kenya,KEN_1_3,Eastern,KEN_2_14,Embu,KEN_3_66,Mbeere North  Sub County,eYBXetGx8xF
+Kenya,KEN_1_7,Nyanza,KEN_2_45,Kisii,KEN_3_269,Kitutu Chache South Sub County,gPR82w2xgJZ
+Kenya,KEN_1_1,Coast,KEN_2_6,Taita Taveta,KEN_3_25,Mwatate Sub County,IBDoGsLdhvt
+Kenya,KEN_1_7,Nyanza,KEN_2_45,Kisii,KEN_3_264,Bobasi Sub County,cooDDG3Lh3A
+Kenya,KEN_1_5,Rift Valley,KEN_2_25,Samburu,KEN_3_134,Samburu North Sub County,E2DGjZRlwbY
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_202,Lurambi Sub County,Y3NjAhiBaZT
+Kenya,KEN_1_3,Eastern,KEN_2_12,Meru,KEN_3_57,Buuri Sub County,xN5aPo4ZOIt
+Kenya,KEN_1_7,Nyanza,KEN_2_45,Kisii,KEN_3_266,Nyaribari Masaba Sub County,A6Sj8RumZ0m
+Kenya,KEN_1_3,Eastern,KEN_2_15,Kitui,KEN_3_74,Kitui South Sub County,d3hSQ3EtnPk
+Kenya,KEN_1_1,Coast,KEN_2_4,Tana River,KEN_3_20,Bura Sub County,yWPcTwGwQ2B
+Kenya,KEN_1_7,Nyanza,KEN_2_46,Nyamira,KEN_3_272,Nyamira North Sub County,v5qbFUgfIoF
+Kenya,KEN_1_7,Nyanza,KEN_2_43,Homa Bay,KEN_3_246,Kabondo Kasipul Sub County,BzFBYZhF5fx
+Kenya,KEN_1_2,North Eastern,KEN_2_7,Garissa,KEN_3_28,Balambala Sub County,FGBNPr91pXH
+Kenya,KEN_1_7,Nyanza,KEN_2_42,Kisumu,KEN_3_243,Muhoroni Sub County,NmbwkQ5r5cB
+Kenya,KEN_1_7,Nyanza,KEN_2_41,Siaya,KEN_3_232,Ugenya Sub County,InECuIlzJGx
+Kenya,KEN_1_5,Rift Valley,KEN_2_27,Uasin Gishu,KEN_3_145,Kapseret Sub County,u9yagZzK49q
+Kenya,KEN_1_2,North Eastern,KEN_2_7,Garissa,KEN_3_29,Lagdera Sub County,J69iWev2zwu
+Kenya,KEN_1_7,Nyanza,KEN_2_43,Homa Bay,KEN_3_245,Kasipul Sub County,NhsAMiaS0TD
+Kenya,KEN_1_4,Central,KEN_2_19,Nyeri,KEN_3_95,Kieni East Sub County,YXt5ETQPRlB
+Kenya,KEN_1_3,Eastern,KEN_2_16,Machakos,KEN_3_77,Kangundo Sub County,vMPhBuymSKt
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,KEN_3_216,Mt Elgon Sub County,ZCYATXdLsL1
+Kenya,KEN_1_5,Rift Valley,KEN_2_23,Turkana,KEN_3_123,Turkana North Sub County,mWpq607yRXh
+Kenya,KEN_1_6,Western,KEN_2_40,Busia,KEN_3_225,Teso North Sub County,GpEIlwz3FvT
+Kenya,KEN_1_3,Eastern,KEN_2_11,Isiolo,,Merti Sub County,NrGORu301bx
+Kenya,KEN_1_5,Rift Valley,KEN_2_30,Baringo,KEN_3_160,Marigat Sub County,dSLnPmNlm8Q
+Kenya,KEN_1_4,Central,KEN_2_20,Kirinyaga,KEN_3_103,Kirinyaga Central Sub County,JKNaaTjVapG
+Kenya,KEN_1_5,Rift Valley,KEN_2_26,Trans Nzoia,KEN_3_137,Endebess Sub County,PsjxYLsJSIp
+Kenya,KEN_1_7,Nyanza,KEN_2_42,Kisumu,KEN_3_238,Kisumu East Sub County,PRpKwAloU5b
+Kenya,KEN_1_3,Eastern,KEN_2_10,Marsabit,KEN_3_48,LAISAMIS,eZpy65ooW0m
+Kenya,KEN_1_2,North Eastern,KEN_2_9,Mandera,KEN_3_44,LAFEY,nsfbHBS9tMT
+Kenya,KEN_1_5,Rift Valley,KEN_2_36,Bomet,KEN_3_196,Bomet East Sub County,OZNRpww2TUK
+Kenya,KEN_1_5,Rift Valley,KEN_2_25,Samburu,KEN_3_135,Samburu East Sub County,ldZ10N9unC9
+Kenya,KEN_1_4,Central,KEN_2_20,Kirinyaga,,Kirinyaga South Sub County,jHmpQUlnkQk
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_274,Westlands  Sub County,f1T0Ltob8VQ
+Kenya,KEN_1_6,Western,KEN_2_38,Vihiga,KEN_3_212,Sabatia Sub County,urtJSF5jcBC
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_169,Gilgil Sub County,hBU8B1KI12P
+Kenya,KEN_1_1,Coast,KEN_2_4,Tana River,KEN_3_18,Garsen Sub County,Lj0mu9j58Ss
+Kenya,KEN_1_1,Coast,KEN_2_1,Mombasa,KEN_3_5,Likoni  Sub County,iy93Mmi73Or
+Kenya,KEN_1_3,Eastern,KEN_2_15,Kitui,KEN_3_69,Mwingi Central Sub- County,uE7HKhqPOtf
+Kenya,KEN_1_7,Nyanza,KEN_2_42,Kisumu,KEN_3_241,Seme Sub County,LRNmnMw1fBs
+Kenya,KEN_1_5,Rift Valley,KEN_2_35,Kericho,KEN_3_189,Kipkelion West Sub County,Taw0Zg7nArd
+Kenya,KEN_1_5,Rift Valley,KEN_2_23,Turkana,KEN_3_127,Turkana South Sub County,iTw0sFjlqZ2
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_166,Molo  Sub County,RJ4LGJiSHFg
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,KEN_3_217,Sirisia Sub County,whWfFA9D7td
+Kenya,KEN_1_1,Coast,KEN_2_2,Kwale,KEN_3_10,Kinango Sub County,LOgbecTRkbp
+Kenya,KEN_1_2,North Eastern,KEN_2_8,Wajir,KEN_3_33,Wajir North Sub County,qsjAa8FE8OS
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_206,Matungu Sub County,ssbO49f0iLN
+Kenya,KEN_1_4,Central,KEN_2_21,Muranga,KEN_3_110,Gatanga Sub County,Z7ALMtFNfeZ
+Kenya,KEN_1_5,Rift Valley,KEN_2_29,Nandi,KEN_3_152,Aldai Sub County,Sq2fLWnOCGg
+Kenya,KEN_1_7,Nyanza,KEN_2_45,Kisii,KEN_3_267,Nyaribari Chache  Sub County,fFh3beH29fD
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_114,Thika Town Sub County,YZAZ1a9MIvX
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_171,Kuresoi North  Sub County,QBwORnYdu0e
+Kenya,KEN_1_7,Nyanza,KEN_2_42,Kisumu,KEN_3_242,Nyando Sub County,iRK9uABUTVZ
+Kenya,KEN_1_6,Western,KEN_2_40,Busia,KEN_3_230,Samia Sub County,NHRktMsAkO1
+Kenya,KEN_1_7,Nyanza,KEN_2_41,Siaya,KEN_3_234,Alego Usonga Sub County,Cu46otDi1RO
+Kenya,KEN_1_5,Rift Valley,KEN_2_29,Nandi,KEN_3_154,Chesumei Sub County,xLWuQq3DjOR
+Kenya,KEN_1_7,Nyanza,KEN_2_42,Kisumu,KEN_3_239,Kisumu West Sub County,YzEDO9Mq4TR
+Kenya,KEN_1_5,Rift Valley,KEN_2_30,Baringo,KEN_3_158,Baringo North Sub County,bqtTmWcikTN
+Kenya,KEN_1_5,Rift Valley,KEN_2_33,Narok,KEN_3_179,Narok North Sub County,fNROL0qm8De
+Kenya,KEN_1_7,Nyanza,KEN_2_44,Migori,KEN_3_257,Uriri Sub County,fCInDXluNhx
+Kenya,KEN_1_4,Central,KEN_2_19,Nyeri,KEN_3_97,Nyeri South Sub County,dd7jowvUO95
+Kenya,KEN_1_4,Central,KEN_2_20,Kirinyaga,KEN_3_100,Kirinyaga North/Mwea West Sub County,f6EOn3xI9YH
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_204,Mumias West  Sub County,uRl5fBkhpcE
+Kenya,KEN_1_1,Coast,KEN_2_5,Lamu,KEN_3_21,LAMU EAST,cwnqFyTJIgX
+Kenya,KEN_1_2,North Eastern,KEN_2_7,Garissa,KEN_3_32,Ijara Sub County,l5E6PiIUs1J
+Kenya,KEN_1_7,Nyanza,KEN_2_43,Homa Bay,KEN_3_247,Karachuonyo Sub County,fmsyW02tPng
+Kenya,KEN_1_5,Rift Valley,KEN_2_26,Turkana,,Kibish Sub County,AXNntZ7T30a
+Kenya,KEN_1_7,Nyanza,KEN_2_44,Migori,KEN_3_255,Suna East Sub County,nHEr5EciFh0
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_175,Nakuru West  Sub County,KTayLusaU5I
+Kenya,KEN_1_1,Coast,KEN_2_5,Lamu,KEN_3_22,LAMU WEST,Lfxw0DfD4jN
+Kenya,KEN_1_5,Rift Valley,KEN_2_30,Baringo,KEN_3_161,Mogotio Sub County,k5sxmlXAtIg
+Kenya,KEN_1_5,Rift Valley,KEN_2_33,Narok,KEN_3_182,Narok West Sub County,ouA247cg58A
+Kenya,KEN_1_4,Central,KEN_2_19,Nyeri,,Mathira West Sub County,msIc1uFAY6B
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,KEN_3_221,Webuye  East Sub County,f4AOiG8fYtn
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,KEN_3_223,Kimilili Sub County,AphsS3lJwKU
+Kenya,KEN_1_3,Eastern,KEN_2_17,Makueni,KEN_3_88,Kibwezi East  Sub County,ZhhyithPNoI
+Kenya,KEN_1_3,Eastern,KEN_2_11,Isiolo,KEN_3_50,Garbatulla Sub County,ecl4YnDebUi
+Kenya,KEN_1_5,Rift Valley,KEN_2_26,Trans Nzoia,KEN_3_140,Cherangany Sub County,f18kGo9yXWo
+Kenya,KEN_1_5,Rift Valley,KEN_2_34,Kajiado,KEN_3_186,Kajiado West Sub County,wYsCfCAUWNB
+Kenya,KEN_1_6,Western,KEN_2_39,Bungoma,KEN_3_224,Tongaren Sub County,orUwYD52An3
+Kenya,KEN_1_3,Eastern,KEN_2_12,Meru,KEN_3_58,Imenti Central Sub County,OnNcTsJgfvL
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_199,Lugari Sub County,ZOdhgR19Akq
+Kenya,KEN_1_5,Rift Valley,KEN_2_26,Trans Nzoia,KEN_3_138,Saboti  Sub County,y2M16lesMsF
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_283,Embakasi North Sub County,SSz1iOv28Jk
+Kenya,KEN_1_3,Eastern,KEN_2_17,Makueni,KEN_3_87,Kibwezi West  Sub County,toa2Hl7iVQI
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_207,Butere Sub County,K7mZpm8COh7
+Kenya,KEN_1_5,Rift Valley,KEN_2_30,Baringo,KEN_3_159,Baringo Central Sub County,k7Rj54u6dMx
+Kenya,KEN_1_5,Rift Valley,KEN_2_34,Kajiado,KEN_3_183,Kajiado North Sub County,BLz1HkvvMkA
+Kenya,KEN_1_5,Rift Valley,KEN_2_23,Turkana,KEN_3_128,Turkana East Sub County,dr8gOvVAdiE
+Kenya,KEN_1_7,Nyanza,KEN_2_43,Homa Bay,KEN_3_250,Ndhiwa Sub County,i2Y2fyNoFyZ
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_119,Kabete Sub County,lb5LzWiUX8Y
+Kenya,KEN_1_3,Eastern,KEN_2_13,Tharaka-Nithi,KEN_3_62,Tharaka North Sub County,ZNXf7qiVh3t
+Kenya,KEN_1_5,Rift Valley,KEN_2_27,Uasin Gishu,KEN_3_141,Soy Sub County,lmr1q6dTaso
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_286,Embakasi West Sub County,aCwUX5V42Zz
+Kenya,KEN_1_4,Central,KEN_2_21,Muranga,KEN_3_107,Kigumo Sub County,tyfDsdZ1h3R
+Kenya,KEN_1_4,Central,KEN_2_18,Nyandarua,KEN_3_89,Kinangop Sub County,RAnL5kBKMIt
+Kenya,KEN_1_2,North Eastern,KEN_2_7,Garissa,,Hulugho Sub County,uyeif4CPqHt
+Kenya,KEN_1_7,Nyanza,KEN_2_45,Kisii,KEN_3_265,Bomachoge Chache Sub County,YqYSkwmOtiR
+Kenya,KEN_1_5,Rift Valley,KEN_2_23,Turkana,KEN_3_126,Loima Sub County,OZiGQn2R8kK
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_121,Limuru Sub County,xhVi71INcFs
+Kenya,KEN_1_3,Eastern,KEN_2_11,Isiolo,KEN_3_49,Isiolo Sub County,I2LYLqKU6AW
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_167,Njoro  Sub County,gSJXzH1DM75
+Kenya,KEN_1_5,Rift Valley,KEN_2_32,Nakuru,KEN_3_173,Rongai  Sub County,OK0hW8DFHq3
+Kenya,KEN_1_4,Central,KEN_2_22,Kiambu,KEN_3_116,Githunguri Sub County,E7tkGikenbD
+Kenya,KEN_1_7,Nyanza,KEN_2_44,Migori,KEN_3_256,Suna West Sub County,VtuwXD7O1O9
+Kenya,KEN_1_6,Western,KEN_2_40,Busia,KEN_3_231,Bunyala Sub County,zI6vnsXresW
+Kenya,KEN_1_5,Rift Valley,KEN_2_35,Kericho,KEN_3_190,Ainamoi Sub County,GshNTMZJ5r1
+Kenya,KEN_1_5,Rift Valley,KEN_2_33,Narok,KEN_3_180,Narok East Sub County,gZM3NbHaugk
+Kenya,KEN_1_7,Nyanza,KEN_2_44,Migori,KEN_3_260,Kuria East Sub County,THm2tCJa2ZQ
+Kenya,KEN_1_1,Coast,KEN_2_2,Kwale,KEN_3_9,Matuga Sub County,wUNEDOnx9uB
+Kenya,KEN_1_5,Rift Valley,KEN_2_28,Elgeyo-Marakwet,KEN_3_148,Marakwet West Sub County,fNCuk4Lpsnh
+Kenya,KEN_1_3,Eastern,KEN_2_17,Makueni,KEN_3_84,Kilome Sub County,XAy1bjurhLU
+Kenya,KEN_1_3,Eastern,KEN_2_12,Meru,KEN_3_55,Tigania East Sub County,U3lGZ71W9Te
+Kenya,KEN_1_6,Western,KEN_2_38,Vihiga,KEN_3_214,Luanda Sub County,lkYdgjRSOoE
+Kenya,KEN_1_1,Coast,KEN_2_3,Kilifi,KEN_3_11,Kilifi North Sub County,MEkEH8ZmcOU
+Kenya,KEN_1_7,Nyanza,KEN_2_46,Nyamira,,Manga Sub County,f3AcdRzgTwz
+Kenya,KEN_1_7,Nyanza,KEN_2_43,Homa Bay,KEN_3_251,Mbita Sub County,mCGytMcMf6y
+Kenya,KEN_1_3,Eastern,KEN_2_12,Meru,KEN_3_56,Imenti North Sub County,BDxUGx86itV
+Kenya,KEN_1_3,Eastern,KEN_2_15,Kitui,KEN_3_67,Mwingi North Sub County,KXM9VnhuLfP
+Kenya,KEN_1_6,Western,KEN_2_37,Kakamega,KEN_3_205,Mumias East Sub County,FBteTV1eqB6
+Kenya,KEN_1_8,Nairobi,KEN_2_47,Nairobi,KEN_3_289,Starehe  Sub County,nKHlZyN0lt9
+Kenya,KEN_1_5,Rift Valley,KEN_2_30,Baringo,KEN_3_157,Tiaty Sub County,st4v8xfqgJf
+Kenya,KEN_1_5,Rift Valley,KEN_2_30,Baringo,,East Pokot Sub County,Mk4bMOSMRTB
+Kenya,KEN_1_3,Eastern,KEN_2_16,Machakos,,Kalama Sub County,pJDgmrxMQTn
+Kenya,KEN_1_3,Eastern,KEN_2_16,Machakos,KEN_3_81,Machakos Sub County,KXc4ez8OAFz
+Kenya,KEN_1_2,North Eastern,KEN_2_9,Mandera,,Kutulo Sub County,iGFdm333PJ2
+Kenya,KEN_1_2,North Eastern,KEN_2_9,Mandera,KEN_3_42,MANDERA SOUTH,qyhVIMG2rUw
+Kenya,KEN_1_5,Rift Valley,KEN_2_27,Uasin Gishu,KEN_3_144,Ainabkoi Sub County,mYlMs4xTj82
